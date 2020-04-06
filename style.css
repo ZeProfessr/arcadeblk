@@ -23,8 +23,15 @@ button {
     border-radius: 4px;
     font-size: 20px;
 }
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
 /* FIN FB MOD */
 
+
+/* TOUT CE CODE EST INVISIBLE
 button {
   margin: 1rem;
 }
@@ -135,6 +142,7 @@ button {
 .btn.btn-background-circle:focus {
   color: white;
 }
+*/
   
   
   
